@@ -1,0 +1,25 @@
+form {
+    display:flex;
+    flex-direction: column;
+    width: 10%;
+}
+
+#toppings{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.specs{
+    margin-bottom: 30px;
+}
+
+.top {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.orders {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
